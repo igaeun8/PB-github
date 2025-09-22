@@ -1,6 +1,3 @@
 print('hello')
-
-
-
-print("github!")
+print('github!')
 
